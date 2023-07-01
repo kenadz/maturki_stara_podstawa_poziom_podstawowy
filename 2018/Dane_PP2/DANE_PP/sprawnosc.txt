@@ -1,0 +1,7 @@
+Id_sprawnosci;Nazwa_sprawnosci
+S1;zeglarz
+S2;goral
+S3;tropiciel
+S4;strzelec
+S5;spadochroniarz
+S6;ratownik

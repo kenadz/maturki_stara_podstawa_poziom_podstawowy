@@ -1,0 +1,6 @@
+zad 1 139
+zad 2 1404
+zad 3 
+Liczba wierszy o sumie cyfr 35: 4 
+Najwiêksza suma cyfr: 88 
+Iloœæ wierszy z najwiêksz¹ sum¹ 2

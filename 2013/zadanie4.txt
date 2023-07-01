@@ -1,0 +1,23 @@
+a)
+504
+b)
+110
+c)
+same zera 32
+same jedynki 50
+d)
+2-znakowe 43
+3-znakowe 38
+4-znakowe 37
+5-znakowe 57
+6-znakowe 53
+7-znakowe 68
+8-znakowe 78
+9-znakowe 103
+10-znakowe 83
+11-znakowe 90
+12-znakowe 86
+13-znakowe 81
+14-znakowe 68
+15-znakowe 59
+16-znakowe 56
